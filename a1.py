@@ -2,7 +2,7 @@
 from constants import *
 
 # Developed by Noel
-# University of Queensland, Student ID: 48422819
+# University of Queensland
 # Email: n.karayampully@uqconnect.edu.au
 
 Board = list[list[str]]
