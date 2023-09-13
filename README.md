@@ -1,7 +1,7 @@
 
 # Fancy Naughts & Crosses
 
-A modified version of the classic Tic-Tac-Toe (or Naughts & Crosses) game developed as part of the CSSE1001/CSSE7030 course at the University of Queensland.
+A modified version of the classic Tic-Tac-Toe (or Naughts & Crosses) game developed as part of the CSSE1001 course at the University of Queensland.
 
 ## Description
 
@@ -28,7 +28,7 @@ This game is similar to the traditional Tic-Tac-Toe but introduces an interestin
 
 ## Author
 
-[Your Name]
+[codernoel]
 
 ## Inspiration
 
