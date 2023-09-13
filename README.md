@@ -28,7 +28,7 @@ This game is similar to the traditional Tic-Tac-Toe but introduces an interestin
 
 ## Author
 
-[codernoel]
+codernoel
 
 ## Inspiration
 
