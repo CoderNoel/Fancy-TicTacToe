@@ -3,7 +3,6 @@ from constants import *
 
 # Developed by Noel
 # University of Queensland
-# Email: n.karayampully@uqconnect.edu.au
 
 Board = list[list[str]]
 Pieces = list[int]
